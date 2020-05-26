@@ -39,7 +39,7 @@
 
  
 <figure>
-	<img src="D:\wolf-project\Images alt="wolf">
+	<img src="Images/wolf.jpg alt="wolf">
 </figure>
 
 
