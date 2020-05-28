@@ -39,7 +39,8 @@
 
  
 <figure>
-	<img src="Images/wolf.jpg alt="wolf">
+	<!--<img src="Images/wolf.jpg alt="wolf">-->
+	![](images/filename wolf.jpg)
 </figure>
 
 
