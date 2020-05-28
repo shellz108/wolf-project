@@ -40,7 +40,7 @@
  
 <figure>
 	<!--<img src="Images/wolf.jpg alt="wolf">-->
-	![](images/filename wolf.jpg)
+	![](images/wolf-project/blob/master/Images/wolf.jpg)
 </figure>
 
 
