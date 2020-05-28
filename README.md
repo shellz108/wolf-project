@@ -40,7 +40,7 @@
  
 <figure>
 	<!--<img src="Images/wolf-project/Images/wolf.jpg?raw=true">-->
-	<img src="Images/wolf.jpg">
+	<img src="./img/wolf.jpg">
 	
 </figure>
 
