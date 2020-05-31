@@ -70,6 +70,8 @@
 	<p><h3>The wolf (Canis lupus), also known as the gray wolf or grey wolf, is a large canine native to Eurasia and North America.</h3> It is the <a href="https://en.wikipedia.org/wiki/Wolf">largest</a> extant member of Canidae, males averaging 40 kg (88 lb) and females 37 kg (82 lb). On average, wolves measure 105–160 cm (41–63 in) in length and 80–85 cm (31–33 in) at shoulder height. <section><article>The wolf is also distinguished from other Canis species by its less pointed ears and muzzle, as well as a shorter torso and a longer tail.</article> <article>The wolf is nonetheless related closely enough to smaller Canis species, such as the coyote and the golden jackal, to produce fertile hybrids with them.</article></section>  <section>The banded fur of a wolf is usually mottled white, brown, gray, and black.</section> <section id="subspecies">Up to 38 subspecies of wolf have been recognized including the domestic dog. </section>
 </main>
 
+<img src="https://raw.githubusercontent.com/shellz108/wolf-project/master/images.jpg/wolf.jpg">
+
 
 
 
