@@ -1,3 +1,3 @@
  # wolf-project
-<img src=".img/wolf.jpg">
+![](wolf.jpg)
 <img src="images/wolfPack.jpg">
