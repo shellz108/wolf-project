@@ -1,3 +1,3 @@
  # wolf-project
-<img src="images/wolf.jpg">
+<img src=".img/wolf.jpg">
 <img src="images/wolfPack.jpg">
