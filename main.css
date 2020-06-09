@@ -1,0 +1,35 @@
+body {
+	font-family: Courier New, Verdana, serif;
+    font-style: oblique;
+    font-weight: 600;
+    background-color: gray;
+    color: blue;
+}
+
+h1 {
+	font-family: Arial, Verdana, sans-serif;
+	font-style: normal;
+	font-weight: 600;
+}
+
+h3 {
+	font-family: Arial, Verdana, sans-serif;
+	font-style: normal;
+	font-weight: 600;
+}
+
+img {
+	padding: 2px;
+	border: 1px solid #067456;
+	background-color: #ffo;
+}
+
+section {
+	color: #ff00ff;
+	font-family: cursive;
+}
+
+a {
+	color:purple;
+	text-decoration: underline;
+}
