@@ -33,3 +33,15 @@ a {
 	color:purple;
 	text-decoration: underline;
 }
+
+a.highlight:hover {
+	color: green;
+}
+
+a:hover{
+	color: orange;
+}
+button{
+	font-family: 'Anton', sans-serif;
+	color: black;
+}
